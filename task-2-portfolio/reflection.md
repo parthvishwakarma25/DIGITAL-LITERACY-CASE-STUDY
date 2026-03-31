@@ -4,7 +4,7 @@
 
 | Platform   | Profile URL                              | Purpose                              |
 |------------|------------------------------------------|--------------------------------------|
-| GitHub     | [](https://github.com/yuvrajjrajput)                  | Code repositories and projects       |
+| GitHub     | [https://github.com/parthvishwakarma25](https://github.com/parthvishwakarma25)                  | Code repositories and projects       |
 | LinkedIn   | [https://www.linkedin.com/in/parth-vishwakarma-0a5971289/](https://www.linkedin.com/in/parth-vishwakarma-0a5971289/)| Professional networking              |
 | Kaggle     | [https://www.kaggle.com/parthvishwakarma25](https://www.kaggle.com/parthvishwakarma25)                 | Data science practice and datasets   |
 
